@@ -25,3 +25,8 @@ With responsive design, there is no need to design a mobile version of your webs
 ~This way, our radio buttons?check boxes will be evenly spread out across the page, regardless of how wide the screen resolution is.
 
 ~All textual input, textarea, and select elements with the class .form-control have a width of 100%.
+
+~Make sure your page is mobile responsvive using the container-fluid class
+~The class 'well' creates  a visual sense of depth for columns
+
+~The class 'target' is used with JQuery selectors to select elements
